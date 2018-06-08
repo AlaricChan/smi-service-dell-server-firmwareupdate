@@ -4,7 +4,7 @@ Service to compare and apply firmware updates for a Dell server using a reposito
 
 Copyright © 2017 Dell Inc. or its subsidiaries.  All Rights Reserved. 
 
-### Purpose
+### Purpose test
 For use with Dell 11th Generation and newer servers. 
 - Download the catalog from ftp.dell.com to a local share
 - Determine updates from a Dell Repository Manager catalog that can be applied to a Dell server
